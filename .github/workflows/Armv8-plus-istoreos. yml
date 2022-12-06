@@ -1,12 +1,12 @@
 #===============================================
-# Description: Build OpenWrt
+# Description: Build OpenWrt istoreos
 # File name: build-openwrt.yml
 # Lisence: MIT
 # Author: P3TERX
 # https://github.com/P3TERX
 #===============================================
 
-name: ARMv8 Plus OpenWrt
+name: ARMv8 Plus OpenWrt istoreos
 
 on:
   workflow_dispatch:
