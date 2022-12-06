@@ -16,7 +16,8 @@ on:
 env:
 #  SOURCE_URL: https://github.com/coolsnowwolf/lede
   SOURCE_URL: https://github.com/istoreos/istoreos
-  SOURCE_BRANCH: master
+#  SOURCE_BRANCH: master
+  SOURCE_BRANCH: main
   CONFIG_FILE: configs/armv8-plus.config
   DIY_SCRIPT: diy-script.sh
   TOOLCHAIN_TAG: Toolchain
